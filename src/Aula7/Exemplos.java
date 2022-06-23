@@ -9,7 +9,8 @@ public class Exemplos {
 
         System.out.println("A variável isChovendo é: " + isChovendo);
         System.out.println("A variável nomeCompleto contém o nome: " + nomeCompleto);
-        System.out.println("A variável testeBoolean contém o texto: " + testeBoolean);
+        System.out.println(
+                "A variável testeBoolean contém o texto yurebwurbfhberhbjirnfij: " + testeBoolean);
         /*
          * Teste de que a variável testeBoolean realmente é do tipo String
          * */
